@@ -1,7 +1,7 @@
 FROM python:3.12
 
-WORKDIR /weather
-ADD . /weather
+WORKDIR /konstytucja
+ADD . /konstytucja
 
 RUN pip install -r requirements.txt
 
