@@ -11,5 +11,5 @@ docker build -t konstytucja .
 docker run -p 8501:8501 konstytucja
 ```
 - W przeglądarce uruchamiamy aplikację pod zdefiniowanym wcześniej portem
-- Z listy rozwijanej znajdującej się po prawej stronie wybieramy plik konstytucji
+- Z listy rozwijanej znajdującej się po lewej stronie wybieramy plik konstytucji
 - Gdy plik się załaduje możemy wysyłać wiadomości do chatu
